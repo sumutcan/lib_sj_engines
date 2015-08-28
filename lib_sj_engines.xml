@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="library" version="2.5" method="install">
+    <libraryname>lib_sj_engines</libraryname>
+    <name>SJ! Semantic Engines Library</name>
+    <author>Umutcan Simsek</author>
+    <creationDate>August 2015</creationDate>
+    <copyright>TH Mittelhessen 2015</copyright>
+    <licence>GNU GPL v.2</licence>
+    <authorUrl>www.mni.thm.de</authorUrl>
+    <version>1.0.0</version>
+    <description>Semantic Engine Implementations of SIWCMS</description>
+    <files>
+        <file>index.html</file>
+        <file>lib_sj_engines.xml</file>
+        <folder>stanbolenhancer</folder>
+    </files>
+
+</extension>
